@@ -37,7 +37,7 @@ Following the self-supervised training, we can then obtain the pseudo masks usin
 python main_monuseg.py --mode 'generate_label' --model 'model_path'
 ```
 
- <img src="https://gitee.com/cpystan/prior_-self-activation_-map/raw/master/pics/fig.jpg" width = "60%" height = "60%" alt="self-activation map vs. pseudo mask" align=center />
+ <img src="https://github.com/cpystan/Prior-Self-activation-Map/blob/master/pics/fig.jpg" width = "60%" height = "60%" alt="self-activation map vs. pseudo mask" align=center />
 
 ### Train NDN
 ```
